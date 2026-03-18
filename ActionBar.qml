@@ -13,7 +13,7 @@ RowLayout {
     Rectangle {
         Layout.fillHeight: true
         //Layout.preferredWidth: 250
-        Layout.fillWidth: true
+        
         color: "lightgray"
         radius: 10
 
